@@ -2,22 +2,16 @@
 
 
 # Welcome!
-## I'm Lucas! Let me present a little about myself :D
+## I'm Rennan! Let me present a little about myself :D
 
-Full-Stack focused in Ruby on Rails | Software engineer :robot:
-
-Writer on OneBitCode Blog :man_technologist:
-
-Lover of Technology and coding :heart:
-
+Computer engineer(UFRGS)
 
 
 ## About me 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/Lucasdfg07)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/in/lucas-siqueira-167362148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:Lucassiqueirafernandes07@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RennanNagel)](https://github.com/RennanNagel)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551996828811&text=Hello!)](https://api.whatsapp.com/send?phone=5551996828811&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nagel.rennan@gmail.com)](mailto:agel.rennan@gmail.com)
 
 
 - Thanks for visiting. 
